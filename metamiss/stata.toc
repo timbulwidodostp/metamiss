@@ -2,4 +2,4 @@
 1
 2
 3
-p psr Propensity score residual regression for overlap-weight average treatment effect Use psr With STATA 19
+p metamiss Meta-analysis with missing data Use metamiss With STATA 19
