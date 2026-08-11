@@ -1,4 +1,29 @@
-D 'psr': Propensity score residual regression for overlap-weight average treatment effect Use psr With STATA 19
+D 'metamiss': Meta-analysis with missing data Use metamiss With STATA 19
 D
-F psr.ado
-F psr.sthlp
+F forestplot.ado
+F forestplot.sthlp
+F labbe.ado
+F labbe.sthlp
+F lmetan.mlib
+F metamiss.ado
+F metamiss.sthlp
+F metan.ado
+F metan.mata
+F metan.sthlp
+F metan7.ado
+F metan7.sthlp
+F metan9.ado
+F metan9.sthlp
+F metan_analysis.ado
+F metan_binary.sthlp
+F metan_continuous.sthlp
+F metan_examples.ado
+F metan_hlp_run.ado
+F metan_model.sthlp
+F metan_output.ado
+F metan_pooling.ado
+F metan_proportion.sthlp
+F metani.ado
+F metani.sthlp
+F metannt.ado
+F metannt.sthlp
