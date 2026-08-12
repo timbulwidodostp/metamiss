@@ -1,6 +1,8 @@
 # metamiss
 Meta-analysis with missing data Use metamiss With STATA 19
 
+https://www.youtube.com/watch?v=sTDEGGhMx64
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
